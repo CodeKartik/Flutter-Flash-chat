@@ -3,7 +3,7 @@
 
 # Flutter Flash chat 🎭
 
-I have made this app while learning flutter. In this application i have learned to how to integrate firebase into flutter application and how to access various different functionalities of firebase like authenticarion and storage from firebase cloud.
+I have made this app while learning flutter. In this application i have learned to how to integrate firebase into flutter application and how to access various different functionalities of firebase like authentication and storage from firebase cloud.
 
 
 #### Feature
